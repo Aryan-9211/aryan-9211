@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Mangla</h1>
-<h3 align="center">Freelancer | Full Stack Developer | Open Source Enthusiast</h3>
+<h3 align="center">FULL STACK DEVELOPER | 3 STAR @CODECHEF | JAVASCRIPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-9211&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-9211" /> </p>
 
