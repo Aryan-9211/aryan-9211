@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LIFT SIMULATION](https://github.com/Aryan-9211/lift-simulation)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **REDUX**
 
 - 👯 I’m looking to collaborate on **Projects**
 
