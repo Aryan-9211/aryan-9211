@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [LIFT SIMULATION](https://github.com/Aryan-9211/lift-simulation)
+- 🔭 I’m currently working on [ELEVATOR SIMULATION](https://github.com/Aryan-9211/ELEVATOR-SIMULATION)
 
 - 🌱 I’m currently learning **REDUX**
 
