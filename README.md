@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Mangla</h1>
-<h3 align="center">FULL STACK DEVELOPER | 3 STAR @CODECHEF | JAVASCRIPT</h3>
+<h3 align="center">FULL STACK DEVELOPER | PUPIL @CODEFORCES | JAVASCRIPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-9211&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-9211" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ELEVATOR SIMULATION](https://github.com/Aryan-9211/ELEVATOR-SIMULATION)
-
-- 🌱 I’m currently learning **REDUX**
+- 🔭 I’m currently working on [ELEVATOR SIMULATION](https://github.com/Aryan-9211/lift-simulator)
 
 - 👯 I’m looking to collaborate on **Projects**
 
