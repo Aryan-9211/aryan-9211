@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MERN CHAT APP](https://github.com/Aryan-9211/mern-chat-app)
+- 🔭 I’m currently working on [WORD HUNT](https://github.com/Aryan-9211/word-hunt)
 
 - 👯 I’m looking to collaborate on **Projects**
 
